@@ -5,7 +5,7 @@
   "homepage": "https://pancakeswap.finance",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aleksandar409/shibanova-swap-core.git"
+    "url": "https://github.com/ShibaNova/shibanova-swap-core.git"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
